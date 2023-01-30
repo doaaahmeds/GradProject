@@ -1,0 +1,15 @@
+body{
+    font-family: "Helvetica";
+    font-size: 23px;
+}
+:root{
+
+}
+
+.navbar .nav-item,
+.navbar .nav-item .dropdown-menu
+{
+   font-family: "Helvetica";
+   font-weight: 400px;
+   font-size: 14px;
+}
